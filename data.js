@@ -99,4 +99,14 @@ export const people = [
     eye_color: 'blue-gray',
     gender: 'male',
   },
+  {
+    id: '11',
+    name: 'Obi-Wan Copy',
+    height: '182',
+    mass: '77',
+    hair_color: 'auburn, white',
+    skin_color: 'fair',
+    eye_color: 'blue-gray',
+    gender: 'male',
+  },
 ]
