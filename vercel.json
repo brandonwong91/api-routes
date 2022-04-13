@@ -4,7 +4,7 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "s-maxage=10, stale-while-revalidate=590"
+          "value": "s-maxage=20, stale-while-revalidate=590"
         },
         { "key": "Access-Control-Allow-Credentials", "value": "true" },
         { "key": "Access-Control-Allow-Origin", "value": "*" },
