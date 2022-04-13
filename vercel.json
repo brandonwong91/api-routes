@@ -4,7 +4,7 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "s-maxage=86400, stale-while-revalidate=86400"
+          "value": "s-maxage=8640, stale-while-revalidate=86400"
         },
         { "key": "Access-Control-Expose-Headers", "value": "X-Vercel-Cache" }
       ]
